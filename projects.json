@@ -1,0 +1,88 @@
+[
+  {
+    "category": "React",
+    "title": "Weather Website",
+    "description": "React + vite + BOOTSTRAP + PWA",
+    "link": "https://weather-react-pwa-vite.netlify.app/",
+    "github": "https://github.com/Amine-Triki/wather-react-pwa",
+    "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/wather-react-pwa.webp"
+  },
+  {
+    "category": "JavaScript",
+    "title": "Weather Website",
+    "description": "JavaScript + BOOTSTRAP",
+    "link": "https://amine-triki.github.io/Weather-js/",
+    "github": "https://github.com/Amine-Triki/Weather-js",
+    "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/8.webp"
+  },
+  {
+    "category": "Wordpress",
+    "title": "personal website",
+    "description": "WORDPRESS",
+    "link": "https://aminetriki.com.tn/",
+    "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/wordpress-portfolio.webp"
+  },
+  {
+    "category": "NextJs",
+    "title": "M.J.S.E website",
+    "description": "NextJs + supabase + shadcn/ui + Tailwind css",
+    "link": "https://mjses.com",
+    "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/4.webp"
+  },
+  {
+    "category": "JavaScript",
+    "title": "personal website",
+    "description": "JavaScript + BOOTSTRAP",
+    "link": "https://amine-triki.github.io/portfolio/",
+    "github": "https://github.com/Amine-Triki/portfolio",
+    "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/3.webp"
+  },
+  {
+    "category": "JavaScript",
+    "title": "personal website",
+    "description": "JavaScript + BOOTSTRAP",
+    "link": "https://amine-triki.github.io/",
+    "github": "https://github.com/Amine-Triki/Amine-Triki.github.io",
+    "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/2.webp"
+  },
+  {
+    "category": "React",
+    "title": "quran with voice",
+    "description": "React + vite + BOOTSTRAP + PWA",
+    "link": "https://quran-voice-pwa.netlify.app/",
+    "github": "https://github.com/Amine-Triki/quran-with-voice",
+    "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/quran.webp"
+  },
+  {
+    "category": "NextJs",
+    "title": "personal website",
+    "description": "Nextjs + Tailwind css + PWA",
+    "link": "https://nextjs-js-portfolio.netlify.app/",
+    "github": "https://github.com/Amine-Triki/nextJs-js-portfolio",
+    "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/next%20%20portfolio.webp"
+  },
+  {
+    "category": "React",
+    "title": "generate qr code Website",
+    "description": "React + Tailwind css",
+    "link": "https://qr-code-generate-free.netlify.app/",
+    "github": "https://github.com/Amine-Triki/generate-qr-code",
+    "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/generate-qr-code.webp"
+  },
+  {
+    "category": "React",
+    "title": "Currency Converter Website",
+    "description": "React + bootstrap",
+    "link": "https://currencyconverterdaily.netlify.app/",
+    "github": "https://github.com/Amine-Triki/CurrencyConverterJs",
+    "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/currencyconverter.webp"
+  },
+  {
+    "category": "React",
+    "title": "personal website",
+    "description": "React + Mui",
+    "link": "https://portfolio-mui-react.netlify.app/",
+    "github": "https://github.com/Amine-Triki/portfolio-mui",
+    "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/portfolio-mui.webp"
+  }
+]
