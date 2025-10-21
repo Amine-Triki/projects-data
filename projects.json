@@ -1,4 +1,12 @@
 [
+    {
+    "category": "vue",
+    "title": "personal website",
+    "description": "vue  + shadcn/ui + element-plus.",
+    "link": "https://profile-vue-element-plus.netlify.app/",
+    "github": "https://github.com/Amine-Triki/profile-vue",
+    "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/vue-element-plus.webp"
+  },
   {
     "category": "NextJs",
     "title": "M.J.S.E website",
