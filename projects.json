@@ -2,7 +2,7 @@
     {
     "category": "vue",
     "title": "personal website",
-    "description": "vue  + shadcn/ui + element-plus.",
+    "description": "vue  + element-plus.",
     "link": "https://profile-vue-element-plus.netlify.app/",
     "github": "https://github.com/Amine-Triki/profile-vue",
     "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/vue-element-plus.webp"
