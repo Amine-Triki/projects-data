@@ -2,7 +2,7 @@
       {
     "category": "Astro",
     "title": "personal website",
-    "description": "vue  + element-plus.",
+    "description": "Astro  + tailwindcss + daisyui.",
     "link": "https://astro-profile-daisyui.netlify.app/",
     "github": "https://github.com/Amine-Triki/astro-profile-tailwindcss-daisyui",
     "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/astro-profile.webp"
@@ -10,7 +10,7 @@
     {
     "category": "vue",
     "title": "personal website",
-    "description": "vue  + element-plus.",
+    "description": "vue  + element-plus",
     "link": "https://profile-vue-element-plus.netlify.app/",
     "github": "https://github.com/Amine-Triki/profile-vue",
     "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/vue-element-plus.webp"
