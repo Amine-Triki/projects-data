@@ -1,4 +1,12 @@
 [
+      {
+    "category": "Astro",
+    "title": "personal website",
+    "description": "vue  + element-plus.",
+    "link": "https://astro-profile-daisyui.netlify.app/",
+    "github": "https://github.com/Amine-Triki/astro-profile-tailwindcss-daisyui",
+    "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/astro-profile.webp"
+  },
     {
     "category": "vue",
     "title": "personal website",
