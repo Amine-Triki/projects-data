@@ -84,33 +84,8 @@
     "description": "WORDPRESS",
     "link": "https://aminetriki.com.tn/",
     "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/wordpress-portfolio.webp"
-  },
-  {
-    "category": "JavaScript",
-    "title": "Weather Website",
-    "description": "JavaScript + BOOTSTRAP",
-    "link": "https://amine-triki.github.io/Weather-js/",
-    "github": "https://github.com/Amine-Triki/Weather-js",
-    "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/8.webp"
-  },
-
-
-  {
-    "category": "JavaScript",
-    "title": "personal website",
-    "description": "JavaScript + BOOTSTRAP",
-    "link": "https://amine-triki.github.io/portfolio/",
-    "github": "https://github.com/Amine-Triki/portfolio",
-    "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/3.webp"
-  },
-  {
-    "category": "JavaScript",
-    "title": "personal website",
-    "description": "JavaScript + BOOTSTRAP",
-    "link": "https://amine-triki.github.io/",
-    "github": "https://github.com/Amine-Triki/Amine-Triki.github.io",
-    "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/2.webp"
   }
-
-
+  
+  
 ]
+
