@@ -1,6 +1,12 @@
 {
   "cv": {
-    "fr": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/cv-fr.pdf",
-    "en": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/cv-en.pdf"
+    "en": {
+      "download": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/cv-en.pdf",
+      "preview": "https://mega.nz/file/7McU0QZA#ue9Ciflqf1NPP_XbOceK53FmrU9c-_T10dbPDyMaovA"
+    },
+    "fr": {
+      "download": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/cv-fr.pdf",
+      "preview": "https://mega.nz/file/..."
+    }
   }
 }
