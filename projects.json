@@ -30,6 +30,14 @@
     "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/toolsmat.webp"
   },
     {
+    "category": "MERN",
+    "title": "Simple MERN stack app",
+    "description": "React + Mui",
+    "link": "https://mern-student.netlify.app/",
+    "github": "https://github.com/Amine-Triki/students",
+    "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/student.webp"
+  },
+    {
     "category": "React",
     "title": "personal website",
     "description": "React + Mui",
@@ -37,7 +45,6 @@
     "github": "https://github.com/Amine-Triki/portfolio-mui",
     "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/portfolio-mui.webp"
   },
-
     {
     "category": "React",
     "title": "Currency Converter Website",
