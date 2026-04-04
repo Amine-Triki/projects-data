@@ -3,7 +3,7 @@
     "category": "Astro",
     "title": "personal website",
     "description": "Astro  + tailwindcss + daisyui.",
-    "link": "astro-profile-tailwindcss-daisyui.pages.dev",
+    "link": "https://astro-profile-tailwindcss-daisyui.pages.dev",
     "github": "https://github.com/Amine-Triki/astro-profile-tailwindcss-daisyui",
     "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/astro-profile.webp"
   },
@@ -33,7 +33,7 @@
     "category": "React",
     "title": "personal website",
     "description": "React + Mui",
-    "link": "portfolio-mui-7m9.pages.dev",
+    "link": "https://portfolio-mui-7m9.pages.dev",
     "github": "https://github.com/Amine-Triki/portfolio-mui",
     "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/portfolio-mui.webp"
   },
