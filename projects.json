@@ -77,14 +77,8 @@
     "link": "https://weather-react-pwa-vite.netlify.app/",
     "github": "https://github.com/Amine-Triki/wather-react-pwa",
     "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/wather-react-pwa.webp"
-  },
-    {
-    "category": "Wordpress",
-    "title": "personal website",
-    "description": "WORDPRESS",
-    "link": "https://aminetriki.com.tn/",
-    "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/wordpress-portfolio.webp"
   }
+
   
   
 ]
