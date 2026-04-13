@@ -48,7 +48,7 @@
     {
     "category": "React",
     "title": "Currency Converter Website",
-    "description": "React + bootstrap",
+    "description": "Bun React + bootstrap",
     "link": "https://currencyconverterdaily.netlify.app/",
     "github": "https://github.com/Amine-Triki/CurrencyConverterJs",
     "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/currencyconverter.webp"
