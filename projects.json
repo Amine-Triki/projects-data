@@ -32,7 +32,7 @@
     {
     "category": "MERN",
     "title": "Simple MERN stack app",
-    "description": "React + Mui",
+    "description": "React Ts + Mui + express +mongodb",
     "link": "https://mern-student.netlify.app/",
     "github": "https://github.com/Amine-Triki/students",
     "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/student.webp"
