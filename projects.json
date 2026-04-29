@@ -1,5 +1,13 @@
 [
       {
+    "category": "MERN",
+    "title": "LMS Educational platform",
+    "description": "React Router framework mode 7 Ts + ant design + express + mongodb",
+    "link": "https://acadtrak.pages.dev/",
+    "github": "",
+    "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/lms.webp"
+  },   
+  {
     "category": "Astro",
     "title": "personal website",
     "description": "Astro  + tailwindcss + daisyui.",
