@@ -34,7 +34,7 @@
     "category": "NextJs",
     "title": "platform for free online tools",
     "description": "NextJs  + shadcn/ui + Tailwind css + pwa",
-    "link": "https://toolsmat.com/",
+    "link": "https://toolsmat.netlify.app/",
     "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/toolsmat.webp"
   },
     {
