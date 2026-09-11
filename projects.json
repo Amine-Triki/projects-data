@@ -65,7 +65,7 @@
     "featured": false,
     "link": "",
     "github": "https://github.com/Amine-Triki/laravel12-filament4",
-    "imageSrc": ""
+    "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/laravel.webp"
   },
   {
     "category": "Web App",
@@ -75,17 +75,7 @@
     "featured": false,
     "link": "",
     "github": "https://github.com/Amine-Triki/laravel-11-osrm-maps",
-    "imageSrc": ""
-  },
-  {
-    "category": "Web App",
-    "title": "Bus Route Mapping Tool",
-    "description": "Website for planning bus routes with multiple stations and distance calculation.",
-    "technologies": ["PHP", "OSRM"],
-    "featured": false,
-    "link": "",
-    "github": "https://github.com/Amine-Triki/osrm_map_bus",
-    "imageSrc": ""
+    "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/laravel.webp"
   },
   {
     "category": "Web App",
@@ -115,7 +105,7 @@
     "featured": false,
     "link": "",
     "github": "https://github.com/Amine-Triki/simple_conversation_laravel_api",
-    "imageSrc": ""
+    "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/laravel.webp"
   },
   {
     "category": "Tool",
