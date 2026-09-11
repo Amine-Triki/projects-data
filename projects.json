@@ -1,72 +1,129 @@
 [
   {
+    "category": "Mobile App",
+    "title": "Personal Expense Tracker",
+    "description": "Private, offline-first personal expense tracker with optional budget cycles and shopping lists linked directly to expenses.",
+    "technologies": ["Flutter", "Dart"],
+    "featured": true,
+    "link": "",
+    "github": "https://github.com/Amine-Triki/expenses_management_app",
+    "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/expenses-management-app1.webp",
+    "screenshots": [
+      "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/expenses-management-app1.webp",
+      "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/expenses-management-app2.webp",
+      "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/expenses-management-app3.webp",
+      "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/expenses-management-app4.webp",
+      "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/expenses-management-app5.webp",
+      "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/expenses-management-app6.webp",
+      "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/expenses-management-app7.webp"
+    ]
+  },
+  {
     "category": "Web App",
     "title": "LMS Educational Platform",
     "description": "Educational platform for managing courses, students and learning content.",
     "technologies": ["React", "TypeScript", "Ant Design", "Express", "MongoDB"],
+    "featured": true,
     "link": "https://acadtrak.pages.dev/",
     "github": "",
     "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/lms.webp"
-  },
-  {
-    "category": "Website",
-    "title": "Personal Website",
-    "description": "Personal portfolio website showcasing projects and skills.",
-    "technologies": ["Astro", "Tailwind CSS", "DaisyUI"],
-    "link": "https://astro-profile-tailwindcss-daisyui.pages.dev",
-    "github": "https://github.com/Amine-Triki/astro-profile-tailwindcss-daisyui",
-    "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/astro-profile.webp"
-  },
-  {
-    "category": "Website",
-    "title": "Personal Website",
-    "description": "Personal portfolio website built with Vue.",
-    "technologies": ["Vue", "Element Plus"],
-    "link": "https://profile-vue-element-plus.netlify.app/",
-    "github": "https://github.com/Amine-Triki/profile-vue",
-    "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/vue-element-plus.webp"
   },
   {
     "category": "Web App",
     "title": "M.J.S.E Website",
     "description": "Platform for a governmental youth center to manage activities, clubs and communication.",
     "technologies": ["Next.js", "Supabase", "shadcn/ui", "Tailwind CSS"],
+    "featured": true,
     "link": "https://mjses.com",
     "github": "",
     "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/4.webp"
   },
   {
     "category": "Web App",
+    "title": "HGV Route Planning System",
+    "description": "System for planning multi-waypoint routes for heavy goods vehicles, with distance calculation using a route optimization service.",
+    "technologies": ["Laravel", "OpenRouteService"],
+    "featured": true,
+    "link": "",
+    "github": "https://github.com/Amine-Triki/laravel-map-driving-hgv",
+    "imageSrc": ""
+  },
+  {
+    "category": "Web App",
     "title": "Free Online Tools Platform",
-    "description": "Platform offering a collection of free online tools and utilities.",
+    "description": "Platform offering more than 20 free online tools and utilities, including a password generator, QR code generator, weather lookup, text converters and more, all in one place.",
     "technologies": ["Next.js", "shadcn/ui", "Tailwind CSS", "PWA"],
+    "featured": true,
     "link": "https://toolsmat.netlify.app/",
     "github": "",
     "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/toolsmat.webp"
   },
   {
     "category": "Web App",
+    "title": "Blog & Portfolio Platform",
+    "description": "Blog platform with a portfolio showcase and user account management.",
+    "technologies": ["Laravel", "Filament", "MySQL"],
+    "featured": false,
+    "link": "",
+    "github": "https://github.com/Amine-Triki/laravel12-filament4",
+    "imageSrc": ""
+  },
+  {
+    "category": "Web App",
+    "title": "Route Planning System (OSRM)",
+    "description": "Route planning system for multi-waypoint navigation using the OSRM routing engine — an alternate build of the route planning system using a different routing service.",
+    "technologies": ["Laravel", "OSRM"],
+    "featured": false,
+    "link": "",
+    "github": "https://github.com/Amine-Triki/laravel-11-osrm-maps",
+    "imageSrc": ""
+  },
+  {
+    "category": "Web App",
+    "title": "Bus Route Mapping Tool",
+    "description": "Website for planning bus routes with multiple stations and distance calculation.",
+    "technologies": ["PHP", "OSRM"],
+    "featured": false,
+    "link": "",
+    "github": "https://github.com/Amine-Triki/osrm_map_bus",
+    "imageSrc": ""
+  },
+  {
+    "category": "Web App",
     "title": "Student Management App",
     "description": "Simple application for managing student records and data.",
     "technologies": ["React", "TypeScript", "MUI", "Express", "MongoDB"],
+    "featured": false,
     "link": "https://mern-student.netlify.app/",
     "github": "https://github.com/Amine-Triki/students",
     "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/student.webp"
   },
   {
-    "category": "Website",
-    "title": "Personal Website",
-    "description": "Personal portfolio website built with React.",
-    "technologies": ["React", "MUI"],
-    "link": "https://portfolio-mui-7m9.pages.dev",
-    "github": "https://github.com/Amine-Triki/portfolio-mui",
-    "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/portfolio-mui.webp"
+    "category": "Web App",
+    "title": "Quran With Voice",
+    "description": "Application for reading and listening to Quran recitations.",
+    "technologies": ["React", "Vite", "Bootstrap", "PWA"],
+    "featured": false,
+    "link": "https://quran-voice-pwa.netlify.app/",
+    "github": "https://github.com/Amine-Triki/quran-with-voice",
+    "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/quran.webp"
+  },
+  {
+    "category": "Tool",
+    "title": "Conversation API",
+    "description": "Simple backend API for creating and managing conversations.",
+    "technologies": ["Laravel"],
+    "featured": false,
+    "link": "",
+    "github": "https://github.com/Amine-Triki/simple_conversation_laravel_api",
+    "imageSrc": ""
   },
   {
     "category": "Tool",
     "title": "Currency Converter Website",
     "description": "Tool for converting currencies with daily updated exchange rates.",
     "technologies": ["React", "Bun", "Bootstrap"],
+    "featured": false,
     "link": "https://currencyconverterdaily.netlify.app/",
     "github": "https://github.com/Amine-Triki/CurrencyConverterJs",
     "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/currencyconverter.webp"
@@ -76,35 +133,32 @@
     "title": "QR Code Generator Website",
     "description": "Tool for generating QR codes for free.",
     "technologies": ["React", "Tailwind CSS"],
+    "featured": false,
     "link": "https://qr-code-generate-free.netlify.app/",
     "github": "https://github.com/Amine-Triki/generate-qr-code",
     "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/generate-qr-code.webp"
-  },
-  {
-    "category": "Website",
-    "title": "Personal Website",
-    "description": "Personal portfolio website built with Next.js.",
-    "technologies": ["Next.js", "Tailwind CSS", "PWA"],
-    "link": "https://nextjs-js-portfolio.netlify.app/",
-    "github": "https://github.com/Amine-Triki/nextJs-js-portfolio",
-    "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/next%20%20portfolio.webp"
-  },
-  {
-    "category": "Web App",
-    "title": "Quran With Voice",
-    "description": "Application for reading and listening to Quran recitations.",
-    "technologies": ["React", "Vite", "Bootstrap", "PWA"],
-    "link": "https://quran-voice-pwa.netlify.app/",
-    "github": "https://github.com/Amine-Triki/quran-with-voice",
-    "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/quran.webp"
   },
   {
     "category": "Tool",
     "title": "Weather Website",
     "description": "Tool for checking current weather conditions.",
     "technologies": ["React", "Vite", "Bootstrap", "PWA"],
+    "featured": false,
     "link": "https://weather-react-pwa-vite.netlify.app/",
     "github": "https://github.com/Amine-Triki/wather-react-pwa",
     "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/wather-react-pwa.webp"
+  },
+  {
+    "category": "Website",
+    "title": "Personal Portfolio — Multi-Stack",
+    "description": "Same personal portfolio design rebuilt across different frontend stacks to practice and compare each ecosystem.",
+    "featured": false,
+    "variants": [
+      { "stack": "Astro + Tailwind CSS + DaisyUI", "link": "https://astro-profile-tailwindcss-daisyui.pages.dev", "github": "https://github.com/Amine-Triki/astro-profile-tailwindcss-daisyui" },
+      { "stack": "Vue + Element Plus", "link": "https://profile-vue-element-plus.netlify.app/", "github": "https://github.com/Amine-Triki/profile-vue" },
+      { "stack": "React + MUI", "link": "https://portfolio-mui-7m9.pages.dev", "github": "https://github.com/Amine-Triki/portfolio-mui" },
+      { "stack": "Next.js + Tailwind CSS + PWA", "link": "https://nextjs-js-portfolio.netlify.app/", "github": "https://github.com/Amine-Triki/nextJs-js-portfolio" }
+    ],
+    "imageSrc": "https://raw.githubusercontent.com/Amine-Triki/projects-data/main/assets/astro-profile.webp"
   }
 ]
