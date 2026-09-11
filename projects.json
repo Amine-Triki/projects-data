@@ -20,7 +20,8 @@
   {
     "category": "Web App",
     "title": "LMS Educational Platform",
-    "description": "Educational platform for managing courses, students and learning content.",
+    "description": "Educational 
+form for managing courses, students and learning content.",
     "technologies": ["React", "TypeScript", "Ant Design", "Express", "MongoDB"],
     "featured": true,
     "link": "https://acadtrak.pages.dev/",
@@ -30,7 +31,7 @@
   {
     "category": "Web App",
     "title": "M.J.S.E Website",
-    "description": "Platform for a governmental youth center to manage activities, clubs and communication.",
+    "description": "Introduces the institution and gives visitors access to its general information, location, address, contact details, events, and site map.",
     "technologies": ["Next.js", "Supabase", "shadcn/ui", "Tailwind CSS"],
     "featured": true,
     "link": "https://mjses.com",
