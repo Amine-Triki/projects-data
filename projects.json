@@ -20,8 +20,7 @@
   {
     "category": "Web App",
     "title": "LMS Educational Platform",
-    "description": "Educational 
-form for managing courses, students and learning content.",
+    "description": "Educational form for managing courses, students and learning content.",
     "technologies": ["React", "TypeScript", "Ant Design", "Express", "MongoDB"],
     "featured": true,
     "link": "https://acadtrak.pages.dev/",
