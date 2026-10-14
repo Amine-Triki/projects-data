@@ -39,8 +39,8 @@
   },
   {
     "category": "Web App",
-    "title": "HGV Route Planning System",
-    "description": "System for planning multi-waypoint routes for heavy goods vehicles, with distance calculation using a route optimization service.",
+    "title": "Bus Route Planning System",
+    "description": "System for planning multi-stop routes for buses and stations, with distance calculation using a route optimization service.",
     "technologies": ["Laravel", "OpenRouteService"],
     "featured": true,
     "link": "",
